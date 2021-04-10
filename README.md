@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Premashish Ghosh
 <!--
 **PGNITH/pgnith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🌱 I’m currently learning Firebase and MERN stack.
+ ⚡ Fun fact:  I am neither especially clever nor especially gifted. I am only very, very curious to learn Anything new.☃
