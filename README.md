@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 -->
  🌱 I’m currently learning Firebase and MERN stack.
  ⚡ Fun fact:  I am neither especially clever nor especially gifted. I am only very, very curious to learn Anything new.☃
+
+<p align="center"> 
+  Profile Visits<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
