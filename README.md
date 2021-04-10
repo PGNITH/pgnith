@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🌱 I’m currently learning Firebase and MERN stack.
+ 🌱 I’m currently learning Firebase and MERN stack. <br/>
  ⚡ Fun fact:  I am neither especially clever nor especially gifted. I am only very, very curious to learn Anything new.☃
 
 <p align="center"> 
