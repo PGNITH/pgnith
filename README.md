@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <p align="center"> 
   Profile Visits<br>
   <img src="https://profile-counter.glitch.me/pgnith/count.svg" />
- <img src="https://ivignesh.com/assets/img/developer.svg" />
+ <img src="https://ivignesh.com/assets/img/developer.svg" height="100px" width="100px" style="float:right"/>
 
 </p>
