@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Premashish Ghosh
+ <img src="https://ivignesh.com/assets/img/developer.svg" height="300px" width="300px" style="float:right"/>
 <!--
 **PGNITH/pgnith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +22,6 @@ Here are some ideas to get you started:
 <p align="center"> 
   Profile Visits<br>
   <img src="https://profile-counter.glitch.me/pgnith/count.svg" />
- <img src="https://ivignesh.com/assets/img/developer.svg" height="100px" width="100px" style="float:right"/>
+
 
 </p>
