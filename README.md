@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  🌱 I’m currently learning Firebase and MERN stack. <br/>
- ⚡ Fun fact:  I am neither especially clever nor especially gifted. I am only very, very curious to learn Anything new.☃
+ ⚡ Fun fact:  I am neither especially clever nor especially gifted. I am only curious to learn Anything new.☃
 
 [![Linkedin Badge](https://img.shields.io/badge/-Premashish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/premashish-ghosh-aab01b206)](https://in.linkedin.com/in/premashish-ghosh-aab01b206)
 [![Gmail Badge](https://img.shields.io/badge/-Premashish2705@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:premashish2705@gmail.com)](mailto:premashish2705@gmail.com)
