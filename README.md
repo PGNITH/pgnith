@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 </p>
 <div align="center">
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgnith&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true) -->
-|<img src="https://github-readme-stats.vercel.app/api?username=pgnith&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=pgnith&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
-|---|---|
+<img src="https://github-readme-stats.vercel.app/api?username=pgnith&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=pgnith&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>
+<!-- |---|---| -->
  </div>
