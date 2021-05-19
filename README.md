@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello, I am Premashish<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>h
 
 <a href="https://dev.to/pgnith">Click to Read my blog </a>
